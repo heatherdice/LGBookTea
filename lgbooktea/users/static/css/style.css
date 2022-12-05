@@ -1,0 +1,9 @@
+* {
+    background-image: linear-gradient(to bottom right, red, orange, yellow, green, blue, purple);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-family: cursive;
+}
